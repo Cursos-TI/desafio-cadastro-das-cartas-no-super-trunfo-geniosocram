@@ -7,7 +7,7 @@
 //Teste larissa
 
 int main() {
-    printf("Desafio Super Trunfo - países");
+    printf("Desafio Super Trunfo - países\n");
     char carta1[20] ;
     char Estado [20] = "Bahia";
     char codigo[20] = "B01";
@@ -17,7 +17,7 @@ int main() {
     float PIB = 62.9,B;
     int NumeroPontosturisticos = 100;
 
-
+printf("Estado: %s\n", Estado);
 
 
 
