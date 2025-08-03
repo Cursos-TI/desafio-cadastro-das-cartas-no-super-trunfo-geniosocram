@@ -20,6 +20,7 @@ printf("carta1: %s\n", carta1);
 
 printf("Estado: %s\n", Estado);
 
+printf("Codigo: %s\n", codigo);
 
 
 
