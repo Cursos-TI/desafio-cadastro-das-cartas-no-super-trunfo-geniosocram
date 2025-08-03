@@ -13,6 +13,7 @@ int main() {
 
     printf("carta1: %s\n", carta1);
 
+printf("Digite o nome do Estado:\n");
 
 printf("Estado: %s\n", Estado);
 
@@ -29,7 +30,10 @@ printf("Área: %f\n", Àrea);
 
 printf("numeros de Ponto turisticos: %d\n", numerodepontosTuristicos);
 
-    // Sugestão: Defina variáveis separadas para cada atributo da cidade.
+   
+
+
+// Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
     // Cadastro das Cartas:
