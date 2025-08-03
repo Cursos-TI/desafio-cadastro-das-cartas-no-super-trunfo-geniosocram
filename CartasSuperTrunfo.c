@@ -11,7 +11,12 @@ int main() {
     char carta1[20];
     char Estado [20];
     char codigo[20];
+    char Cidade[20];
+    int População;
     
+
+
+
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
