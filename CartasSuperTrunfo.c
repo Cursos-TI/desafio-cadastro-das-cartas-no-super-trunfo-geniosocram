@@ -13,8 +13,11 @@ int main() {
     char codigo[20] = "B01";
     char Cidade[20] = "Savaldor";
     int População = 200000000;
-    float Àrea = 60000000;
-    
+    float Àrea = 600.00000, km2;
+    float PIB = 62.9,B;
+
+
+
 
 
 
