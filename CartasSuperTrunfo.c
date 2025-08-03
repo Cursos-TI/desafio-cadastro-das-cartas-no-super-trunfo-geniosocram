@@ -13,11 +13,12 @@ int main() {
 
     printf("carta1: %s\n", carta1);
 
-printf("Digite o nome do Estado:\n");
+printf("Digite o nome do Estado:");
 scanf("%s", Estado);
 printf("Estado: %s\n", Estado);
 
-
+printf("Digite o Codigo:");
+scanf("%s", codigo );
 printf("Codigo: %s\n", codigo);
 
 printf("Nome da Cidade: %s\n", Cidade);
