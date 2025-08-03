@@ -22,6 +22,8 @@ printf("Estado: %s\n", Estado);
 
 printf("Codigo: %s\n", codigo);
 
+printf("Cidade: %s\n", Cidade);
+
 
 
 
