@@ -10,6 +10,8 @@ int main() {
     printf("Desafio Super Trunfo - países");
     char carta1[20];
     char Estado [20];
+    char codigo[20];
+    
 
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
