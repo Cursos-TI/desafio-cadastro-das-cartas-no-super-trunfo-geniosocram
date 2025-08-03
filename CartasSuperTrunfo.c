@@ -14,8 +14,9 @@ int main() {
     printf("carta1: %s\n", carta1);
 
 printf("Digite o nome do Estado:\n");
-
+scanf("%s", Estado);
 printf("Estado: %s\n", Estado);
+
 
 printf("Codigo: %s\n", codigo);
 
