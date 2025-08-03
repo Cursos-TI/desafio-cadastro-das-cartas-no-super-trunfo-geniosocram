@@ -18,7 +18,7 @@ printf("Estado: %s\n", Estado);
 
 printf("Codigo: %s\n", codigo);
 
-printf("Cidade: %s\n", Cidade);
+printf("Nome da Cidade: %s\n", Cidade);
 
 
 printf("População: %d\n", População);
@@ -27,7 +27,7 @@ printf("População: %d\n", População);
 printf("Área: %f\n", Àrea);
 
 
-
+printf("numeros de Ponto turisticos: %d\n", numerodepontosTuristicos);
 
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
