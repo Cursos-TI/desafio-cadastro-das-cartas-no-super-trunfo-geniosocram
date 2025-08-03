@@ -14,8 +14,9 @@ int main() {
     char Cidade[20] = "Savaldor";
     int População = 200000000;
     float Àrea = 600.00000, km2;
-    float PIB = 62.9,B;
-    int NumeroPontosturisticos = 100;
+    float PIB = 62.9,B ;
+    int numerodepontosTuristicos = 100;
+printf("carta1: %s\n", carta1);
 
 printf("Estado: %s\n", Estado);
 
