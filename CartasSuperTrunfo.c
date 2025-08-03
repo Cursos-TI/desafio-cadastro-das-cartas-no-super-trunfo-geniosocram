@@ -10,7 +10,8 @@ int main() {
     float Àrea = 600.00000, km2;
     float PIB = 62.9,B ;
     int numerodepontosTuristicos = 100;
-printf("carta1: %s\n", carta1);
+
+    printf("carta1: %s\n", carta1);
 
 
 printf("Estado: %s\n", Estado);
