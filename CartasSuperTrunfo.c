@@ -24,7 +24,7 @@ printf("Codigo: %s\n", codigo);
 
 printf("Cidade: %s\n", Cidade);
 
-
+printf("População: %d\n", População);
 
 
 
