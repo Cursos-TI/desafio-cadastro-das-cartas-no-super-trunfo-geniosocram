@@ -21,6 +21,8 @@ printf("Digite o Codigo:");
 scanf("%s", codigo );
 printf("Codigo: %s\n", codigo);
 
+printf("Digite o nome da Cidade:");
+scanf("%s", Cidade);
 printf("Nome da Cidade: %s\n", Cidade);
 
 
