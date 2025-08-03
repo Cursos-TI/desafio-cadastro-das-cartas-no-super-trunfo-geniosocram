@@ -15,6 +15,7 @@ int main() {
     int População = 200000000;
     float Àrea = 600.00000, km2;
     float PIB = 62.9,B;
+    int NumeroPontosturisticos = 100;
 
 
 
