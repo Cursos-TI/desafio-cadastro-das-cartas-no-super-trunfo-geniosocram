@@ -7,8 +7,8 @@ int main() {
     char codigo[20] = "B01";
     char Cidade[20] = "Savaldor";
     int População = 200000000;
-    float Área = 600.00000, km2;
-    float PIB = 62.9,B ;
+    float Área = 600.00000,km2;
+    float PIB = 690.90;
     int numerodepontosTuristicos = 100;
 
     printf("carta1: %s\n", carta1);
@@ -34,13 +34,16 @@ scanf("%f", &Área);
 printf("Área: %f\n",Área);
  
 
-printf("Digite o numero do PIB;");
+printf("Digite o numero do PIB:");
 scanf("%f", &PIB);
-printf("PIB: %f\n', PIB");
+printf("PIB: %f\n", PIB);
 
 printf("Digite o numero de pontos Turisticos:");
 scanf("%d",  &numerodepontosTuristicos);
 printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
+
+char carta2;
+
 
    
 
