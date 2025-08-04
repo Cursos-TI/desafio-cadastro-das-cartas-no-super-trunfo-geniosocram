@@ -48,6 +48,8 @@ char Codigo [20] = "C02";
 char cidade [20] = " Fortaleza";
 int população = 2000000;
 float Área = 666.6000;
+float PIB [20]= 666.9000;
+
 
 
 
