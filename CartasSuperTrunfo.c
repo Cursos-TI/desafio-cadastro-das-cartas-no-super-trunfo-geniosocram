@@ -47,11 +47,13 @@ char estado [20] = "Ceará";
 char Codigo [20] = "C02";
 char cidadre [20] = " Fortaleza";
 int população = 2000000;
-float Área = 666.6000;
-float PIB [20]= 666.9000;
+float área = 666.6000;
+float Pib = 333.10;
 int Numerodepontosturisticos = 50;
 
 printf("Digite o nome do Estado:");
+scanf("%s", estado);
+printf("Estado:%s", estado);
 
 
 
