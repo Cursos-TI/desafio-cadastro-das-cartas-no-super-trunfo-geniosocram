@@ -7,7 +7,7 @@ int main() {
     char codigo[20] = "B01";
     char Cidade[20] = "Savaldor";
     int População = 200000000;
-    float Área = 600.00000;
+    float Área = 6666.11;
     float PIB = 690.90;
     int numerodepontosTuristicos = 100;
 
@@ -47,13 +47,17 @@ char estado [20] = "Ceará";
 char Codigo [20] = "C02";
 char cidadre [20] = " Fortaleza";
 int população = 2000000;
-float área = 666.6000;
+float área = 7777.62;
 float Pib = 333.10;
 int Numerodepontosturisticos = 50;
 
 printf("Digite o nome do Estado:");
 scanf("%s", estado);
 printf("Estado:%s", estado);
+
+printf("Digite o codigo:");
+scanf("%s", codigo);
+
 
 
 
