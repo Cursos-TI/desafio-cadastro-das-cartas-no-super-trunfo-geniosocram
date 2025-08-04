@@ -45,7 +45,7 @@ printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
 char carta2[20];
 char estado [20] = "Ceará";
 char Codigo [20] = "C02";
-char cidadre [20] = " Fortaleza";
+char cidade [20] = " Fortaleza";
 int população = 2000000;
 float área = 7777.62;
 float Pib = 333.10;
@@ -53,10 +53,11 @@ int Numerodepontosturisticos = 50;
 
 printf("Digite o nome do Estado:");
 scanf("%s", estado);
-printf("Estado:%s", estado);
+printf("Estado:%s\n", estado);
 
 printf("Digite o codigo:");
 scanf("%s", codigo);
+printf("Codigo:%s\n", codigo);
 
 
 
