@@ -45,10 +45,11 @@ printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
 char carta2[20];
 char estado [20] = "Ceará";
 char Codigo [20] = "C02";
-char cidade [20] = " Fortaleza";
+char cidadre [20] = " Fortaleza";
 int população = 2000000;
 float Área = 666.6000;
 float PIB [20]= 666.9000;
+int Numerodepontosturisticos = 50;
 
 
 
