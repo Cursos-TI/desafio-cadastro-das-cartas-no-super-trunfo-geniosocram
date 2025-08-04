@@ -63,6 +63,24 @@ printf("Digite o nome da cidade:");
 scanf("%s", cidade);
 printf("Cidade: %s\n", cidade);
 
+printf("Digite o nume de população:");
+scanf("%d", &população);
+printf("população:%d\n", população);
+
+printf("Digite o tamanho da Área:");
+scanf("%F", &área);
+printf("Área:%f\n", área);
+
+printf("Digite o numero do PIB:");
+scanf("%F",&Pib); 
+printf("PIB:%F\n", Pib);
+
+printf("Digite o numero de pontos Turisticos:");
+scanf("%d", &Numerodepontosturisticos);
+printf("Numero de pontos Turisticos: %d\n", Numerodepontosturisticos);
+
+
+
 
 
 
