@@ -61,7 +61,7 @@ printf("Codigo:%s\n", codigo);
 
 printf("Digite o nome da cidade:");
 scanf("%s", cidade);
-
+printf("Cidade: %s\n", cidade);
 
 
 
