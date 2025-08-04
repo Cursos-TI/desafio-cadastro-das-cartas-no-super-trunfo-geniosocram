@@ -46,7 +46,7 @@ char carta2[20];
 char estado [20] = "Ceará";
 char Codigo [20] = "C02";
 char cidade [20] = " Fortaleza";
-int população = 2000000
+int população = 2000000;
 
 
    
