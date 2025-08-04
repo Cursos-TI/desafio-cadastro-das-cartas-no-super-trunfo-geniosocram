@@ -30,11 +30,17 @@ scanf("%d", &População);
 printf("População: %d\n", População);
 
 printf("Digite o tamanho da Área:");
-scanf("%f",Área);
+scanf("%f", &Área);
 printf("Área: %f\n",Área);
+ 
 
+printf("Digite o numero do PIB;");
+scanf("%f", &PIB);
+printf("PIB: %f\n', PIB");
 
-printf("numeros de Ponto turisticos: %d\n", numerodepontosTuristicos);
+printf("Digite o numero de pontos Turisticos:");
+scanf("%d",  &numerodepontosTuristicos);
+printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
 
    
 
