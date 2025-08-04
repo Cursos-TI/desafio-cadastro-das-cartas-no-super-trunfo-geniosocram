@@ -42,7 +42,9 @@ printf("Digite o numero de pontos Turisticos:");
 scanf("%d",  &numerodepontosTuristicos);
 printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
 
-char carta2;
+char carta2[20];
+char estado [20] = "Ceará";
+char Codigo [20] = "C02";
 
 
    
