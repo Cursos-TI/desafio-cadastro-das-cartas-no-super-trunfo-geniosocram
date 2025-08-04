@@ -7,7 +7,7 @@ int main() {
     char codigo[20] = "B01";
     char Cidade[20] = "Savaldor";
     int População = 200000000;
-    float Área = 600.00000,km2;
+    float Área = 600.00000;
     float PIB = 690.90;
     int numerodepontosTuristicos = 100;
 
@@ -45,6 +45,8 @@ printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
 char carta2[20];
 char estado [20] = "Ceará";
 char Codigo [20] = "C02";
+char cidade [20] = " Fortaleza";
+
 
 
    
