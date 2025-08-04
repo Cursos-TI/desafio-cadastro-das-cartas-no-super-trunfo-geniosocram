@@ -51,7 +51,7 @@ float área = 7777.62;
 float Pib = 333.10;
 int Numerodepontosturisticos = 50;
 
-printf("carta2:%s", carta2);
+printf("carta2:%s\n", carta2);
 
 printf("Digite o nome do Estado:");
 scanf("%s", estado);
