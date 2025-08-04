@@ -51,6 +51,8 @@ float Área = 666.6000;
 float PIB [20]= 666.9000;
 int Numerodepontosturisticos = 50;
 
+printf("Digite o nome do Estado:");
+
 
 
 
