@@ -51,10 +51,10 @@ int main() {
    float Pib = 333.10;
    int Numerodepontosturisticos = 50;
 
-  printf("carta2:%s\n", carta2);
+   printf("carta2:%s\n", carta2);
+  
   printf("Digite o nome do Estado:");
   scanf("%c",&estado);
-  
   printf("Estado: %c\n", estado);
 
    printf("Digite o codigo:");
