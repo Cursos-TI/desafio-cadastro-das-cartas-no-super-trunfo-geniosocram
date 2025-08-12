@@ -43,7 +43,7 @@ int main() {
    printf("numeros de Pontos turisticos: %d\n", numerodepontosTuristicos);
 
    char carta2[20];
-   char estado  = 'c';
+   char estado = 'c';
    char Codigo [20] = "C02";
    char cidade [20] = " Fortaleza";
    int população = 2000000;
@@ -51,11 +51,11 @@ int main() {
    float Pib = 333.10;
    int Numerodepontosturisticos = 50;
 
-   printf("carta2:%s\n", carta2);
-
-   printf("Digite o nome do Estado:");
-   scanf("%c", &estado);
-   printf("Estado:%c\n", estado);
+  printf("carta2:%s\n", carta2);
+  printf("Digite o nome do Estado:");
+  scanf("%c",&estado);
+  
+  printf("Estado: %c\n", estado);
 
    printf("Digite o codigo:");
    scanf("%s", codigo);
