@@ -3,7 +3,7 @@
 int main() {
     printf("Desafio Super Trunfo - países\n");
     char carta1[20] ;
-    char Estado [20] = "Bahia";
+    char Estado  = 'B';
     char codigo[20] = "B01";
     char Cidade[20] = "Savaldor";
     int População = 200000000;
@@ -14,8 +14,8 @@ int main() {
    printf("carta1: %s\n", carta1);
 
    printf("Digite o nome do Estado:");
-   scanf("%s", Estado);
-   printf("Estado: %s\n", Estado);
+   scanf("%c", &Estado);
+   printf("Estado: %c\n", Estado);
 
    printf("Digite o Codigo:");
    scanf("%s", codigo );
@@ -31,12 +31,12 @@ int main() {
 
    printf("Digite o tamanho da Área:");
    scanf("%f", &Área);
-   printf("Área: %f\n",Área);
+   printf("Área: %.2f km² \n",Área);
  
 
    printf("Digite o numero do PIB:");
    scanf("%f", &PIB);
-   printf("PIB: %f\n", PIB);
+   printf("PIB: %.2f Bilhões\n", PIB);
 
    printf("Digite o numero de pontos Turisticos:");
    scanf("%d",  &numerodepontosTuristicos);
@@ -54,8 +54,8 @@ int main() {
    printf("carta2:%s\n", carta2);
 
    printf("Digite o nome do Estado:");
-   scanf("%s", estado);
-   printf("Estado:%s\n", estado);
+   scanf("%c", &estado);
+   printf("Estado:%c\n", estado);
 
    printf("Digite o codigo:");
    scanf("%s", codigo);
@@ -70,12 +70,12 @@ int main() {
    printf("população:%d\n", população);
 
    printf("Digite o tamanho da Área:");
-   scanf("%F", &área);
-   printf("Área:%f\n", área);
+   scanf("%f", &área);
+   printf("Área: %.2f km²\n", área);
 
    printf("Digite o numero do PIB:");
-   scanf("%F",&Pib); 
-   printf("PIB:%F\n", Pib);
+   scanf("%f",&Pib); 
+   printf("PIB: %2.f Bilhões\n", Pib);
 
    printf("Digite o numero de pontos Turisticos:");
    scanf("%d", &Numerodepontosturisticos);
